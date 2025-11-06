@@ -1,3 +1,0 @@
-flask
-requests
-serverless-wsgi  # Flask 앱을 AWS Lambda 형식으로 래핑
